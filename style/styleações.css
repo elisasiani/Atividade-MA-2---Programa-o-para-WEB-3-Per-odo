@@ -1,0 +1,76 @@
+main{
+    margin: 50px;
+    padding: 40px;
+}
+
+.beatriz{
+    background-color: #4CAD53;
+}
+
+#bene{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding: 20px;
+}
+
+#bene img{
+    height: 30%;
+    width: 30%;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
+#benetext{
+    text-align:justify;
+    padding: 40px;
+}
+
+
+#imp{
+    text-align: justify;
+    align-items: center;
+    padding: 20px;
+    background-color: #6efb6c5b;
+    border-radius: 10px;
+}
+
+#bons{
+    text-align: justify;
+    align-items: center;
+    padding: 20px;
+}
+
+
+
+#oqueisso{
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 10px;
+    background-color: #6efb6c5b;
+    border-radius: 10px;
+    display: block;
+}
+
+#oquetext{
+    text-align: justify;
+    align-items: center;
+    padding: 20px;
+    display: block;
+}
+
+#oque img{
+    height: 30%;
+    width: 30%;
+    border-radius: 10px;
+    padding: 10px;
+    display: block;
+    float: right;
+    
+}
+
+footer{
+    background-color: #4CAD53;
+    text-align: center;
+}

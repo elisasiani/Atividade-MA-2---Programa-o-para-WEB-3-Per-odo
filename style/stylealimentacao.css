@@ -1,0 +1,67 @@
+main{
+    margin: 50px;
+    padding: 40px;
+}
+
+.beatriz{
+    background-color: #4CAD53;
+}
+
+#alimento{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding: 20px;
+}
+
+#alimento img{
+    height: 40%;
+    width: 40%;
+    border-radius: 20px;
+}
+
+#alimentotext{
+    text-align: justify;
+    align-items: center;
+    padding: 20px;
+}
+
+#fisico{
+    text-align: justify;
+    align-items: center;
+    padding: 20px;
+    background-color: #6efb6c5b;
+    border-radius: 10px;
+}
+
+#psico{
+    text-align: justify;
+    align-items: center;
+    padding: 20px;
+}
+
+#oque{
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 10px;
+    background-color: #6efb6c5b;
+    border-radius: 10px;
+}
+
+#oquetext{
+    text-align: justify;
+    align-items: center;
+    padding: 20px;
+}
+
+#oque img{
+    height: 30%;
+    width: 30%;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+footer{
+    background-color: #4CAD53;
+    text-align: center;
+}
